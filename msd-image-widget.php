@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Image Widget
+Plugin Name: Image Widget - MSDLAB Fork
 Plugin URI: http://wordpress.org/extend/plugins/image-widget/
 Description: A simple image widget that uses the native WordPress media manager to add image widgets to your site.
 Author: Modern Tribe, Inc.
